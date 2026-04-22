@@ -1,0 +1,8 @@
+# Protect sensitive files
+<FilesMatch "\.(sql|ini|log|conf)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Disable directory browsing
+Options -Indexes
