@@ -1,8 +1,8 @@
-# 🚀 123Bookmark v2.0 - Professional PHP Vault
+## 🚀 123Bookmark v2.0 - PHP
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/PHP-8.x-blue.svg)](https://www.php.net/)
 
-**123Bookmark** adalah aplikasi penyimpanan URL pribadi (Personal Bookmark Vault) yang didesain dengan antarmuka **Glassmorphism**. Proyek ini mendemonstrasikan integrasi *Bookmarklet* JavaScript dengan backend PHP modern.
+**Bookmark URL** adalah aplikasi penyimpanan URL pribadi (Personal Bookmark Vault) yang didesain dengan antarmuka **Glassmorphism**. Proyek ini mendemonstrasikan integrasi *Bookmarklet* JavaScript dengan backend PHP modern.
 
 ## 🛠️ Tech Stack
 - **Backend:** PHP 8.x (PDO MySQL).
